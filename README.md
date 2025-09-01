@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 こんにちは！
 
-<!--
-**k-hsmt/k-hsmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+都内でエンジニアをしています。  
+ユーザーに役立つシステムを作ること、仲間と一緒に考えながらより良い方法を探すことが得意です。  
+新しい技術や難しい課題に取り組むことから学び、成長していきたいと考えています。  
+よろしくお願いします！
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 得意領域
+- Java（Spring）を用いた業務システム開発
+- バグ原因の特定と解決、保守性・拡張性を意識した改修提案
+- スクラム開発の経験（スクラムマスター含む）
+- 顧客との調整・改善提案、チームでの課題解決
+- 新しい技術をキャッチアップし、実務に活かす自己学習力
